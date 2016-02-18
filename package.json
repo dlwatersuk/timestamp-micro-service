@@ -1,0 +1,20 @@
+{
+  "name": "timestamp-service",
+  "version": "1.0.0",
+  "description": "timestamping microservice in nodejs",
+  "main": "server.js",
+  "dependencies": {},
+  "devDependencies": {},
+  "scripts": {
+    "test": "test"
+    "start": "node server.js"
+  },
+  "keywords": [
+    "timestamp",
+    "js",
+    "nodejs",
+    "microservice"
+  ],
+  "author": "Daniel Waters",
+  "license": "ISC"
+}
